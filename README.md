@@ -45,6 +45,9 @@ Copie e cole no formato abaixo:
 **Nome:** Isabella Mascarenhas
 **GitHub:** https://github.com/isabellamascarenhas08/Exerc-cio-html/blob/main/README.md
 
+duda e lorena
+https://github.com/dudaocria/prova-global/blob/main/README.md
+
 
 ---
 **Nome:** Alice Costa Ribeiro e Isabella Mascarenhas

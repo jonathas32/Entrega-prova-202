@@ -9,9 +9,8 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** yan pierre peixinho 
-**GitHub:** https://github.com/Girley2008?tab=repositories
-
+**Nome:** yan pierre peixinho e luan 
+**GitHub:** https://github.dev/yanpierre444/html-exercicio-1
 ---
 
 **Nome:** Isabelle vitórya

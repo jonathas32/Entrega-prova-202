@@ -23,8 +23,8 @@ Copie e cole no formato abaixo:
 **GitHub:** https://github.com/giuliannamg03-ctrl/Supernatural/blob/main/README.md?plain=1
 
 ---
-**Nome:** Isabelly reis
-**GitHub:** https://github.com/IsabellyReis25/Exerc-cio-de-HTML5
+**Nome:** Isabelly Reis e Isabelle Vitórya 
+**GitHub:**https://github.com/IsabellyReis25/Exercicio2.HTML/blob/main/README.md
 
 ---
 **Nome:** Weller, Rebeca, Ludmilla

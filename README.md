@@ -47,8 +47,8 @@ Copie e cole no formato abaixo:
 
 
 ---
-**Nome:** Alice Costa Ribeiro
-**GitHub:** https://github.com/alicecosta1313/eera
+**Nome:** Alice Costa Ribeiro e Isabella Mascarenhas
+**GitHub:** https://github.com/alicecosta1313/exercicio2/blob/main/README.md
 
 
 

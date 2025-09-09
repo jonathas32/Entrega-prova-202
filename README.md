@@ -19,7 +19,7 @@ Copie e cole no formato abaixo:
 ---
 
 **Nome:** Vitória, Beatriz e Giulianna
-**GitHub:** https://github.com/giuliannamg03-ctrl/Supernatural/blob/main/README.md?plain=1
+**GitHub:** https://github.com/giuliannamg03-ctrl/prova-global-
 
 ---
 **Nome:** Isabelly Reis e Isabelle Vitórya 

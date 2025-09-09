@@ -35,7 +35,7 @@ Copie e cole no formato abaixo:
 
 ---
 **Nome:** GISELE
-**GitHub:** https://github.com/Gisele-desig/Exerc-cio-de-HTML5
+**GitHub:** [https://github.com/Gisele-desig/Exerc-cio-de-HTML5](https://github.com/Gisele-desig/Prova-Global_html_/edit/main/README.md
 
 ---
 **Nome:** Rian,juliander,luan e yan

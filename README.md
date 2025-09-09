@@ -31,7 +31,7 @@ Copie e cole no formato abaixo:
 
 ---
 **Nome:** ATXC, Taylon
-**GitHub:** https://github.com/Ataxerce/Exerc-cio-de-HTML
+**GitHub:** https://github.dev/Ataxerce/EERA
 
 ---
 **Nome:** GISELE

@@ -26,8 +26,8 @@ Copie e cole no formato abaixo:
 **GitHub:**https://github.com/IsabellyReis25/Exercicio2.HTML/blob/main/README.md
 
 ---
-**Nome:** Weller, Rebeca, Ludmilla
-**GitHub:** https://github.com/IsabellyReis25/Exerc-cio-de-HTML5
+**Nome:** Weller, Rebeca
+**GitHub:** https://github.com/weller123/Prova-Global/edit/main/README.md
 
 ---
 **Nome:** ATXC, Taylon

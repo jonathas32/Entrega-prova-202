@@ -50,5 +50,7 @@ Copie e cole no formato abaixo:
 **Nome:** Alice Costa Ribeiro e Isabella Mascarenhas
 **GitHub:** https://github.com/alicecosta1313/exercicio2/blob/main/README.md
 
-
+---
+**Nome:** ana emanuely e ketlen
+**GitHub:** https://github.com/manuzinhabueno19-create/prova-global/blob/main/README.md
 
